@@ -1,0 +1,7 @@
+﻿.vs
+UmbracoFun2/bin
+UmbracoFun2/obj
+UmbracoFun2/umbraco
+UmbracoFun2/wwwroot/media
+*.user
+UmbracoFun2.slnx
